@@ -1,7 +1,7 @@
 # STM32F407 探索者开发板 BSP 说明
 
 ## 简介
-
+本例程是根据rtthread官网的[Demo-蜂鸣器播放器](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-standard/tutorial/beep-player/README)的例程复刻的实际工程文档。
 本文档为 RT-Thread 开发团队为 STM32F407 探索者开发板提供的 BSP (板级支持包) 说明。
 
 主要内容如下：
